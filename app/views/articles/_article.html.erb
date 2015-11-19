@@ -5,6 +5,7 @@
         <%= link_to article_path(article) do %>
         <h4 class="card-title"><%= article.title %></h4>
         <% end %>
+        <p><%= article.views %> view(s)</p>
         <p class="card-text"><%= @markdown.render(article.body).html_safe %></p>
       </div>
       <div class="card-footer">

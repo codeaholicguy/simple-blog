@@ -11,6 +11,8 @@ class ArticlesController < ApplicationController
   # GET /articles/1
   # GET /articles/1.json
   def show
+    @article.increase_number_of_view
+    @article.save
   end
 
   # GET /articles/new
