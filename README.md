@@ -6,7 +6,7 @@ Submitted by: **Nguyen Nhat Hoang**
 
 Time spent: **4** hours spent in total
 
-URL: **https://arcane-tundra-7984.herokuapp.com/articles**
+URL: **https://peaceful-sea-8784.herokuapp.com/articles**
 
 ## User Stories
 
